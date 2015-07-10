@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "erik@kupoday.net",
+    "longName": "ErikDemo",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "ErikDemo",
+    "uuid": "138e069e-dfaa-4a02-836b-23a20e11f159",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
